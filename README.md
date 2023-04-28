@@ -2,12 +2,12 @@
 「組込みプログラム開発」という授業内で製作した、アンドロイドアプリとラズベリーパイを用いたアプリケーション  
 各ディレクトリの概要は次の通り。
 
-## /measureApp
+## measureApp
 物体の幅を計測するアンドロイドアプリ(仮名：Mensura)  
 ディレクトリ Mensura はAndroidStudioのファイル群。（主なソースコードは、Mensura/app/src/mainの中）  
 簡単な概要を示したスライドはpptx、より詳細なレポートはpdfファイルをご参照ください。
 
-## /raspberryPi_cameraStreaming
+## raspberryPi_cameraStreaming
 ラズベリーパイに接続したカメラからの映像をアンドロイドアプリにストリーミングするIoTシステム  
 概要説明スライド：https://docs.google.com/presentation/d/1DdKIIuGqu1L7Pvuq8bTbUW6MkDh7z9UjzjZXvQVp80c/edit?usp=sharing
 
